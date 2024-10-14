@@ -2,7 +2,7 @@ class Player {
   name
   ranking
   birthday
-  #genre
+  #genre //
 
   constructor (name, ranking = 500, genre = 'female', birthday = '1/1/2000') {
     this.name = name
